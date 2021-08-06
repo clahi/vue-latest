@@ -5,7 +5,7 @@
       <component :is="slotProps.Component"></component>
     </transition>
 
-    hi
+    hellooooo
   </router-view>
 </template>
 
