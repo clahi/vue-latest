@@ -4,6 +4,8 @@
     <transition name="route" mode="out-in">
       <component :is="slotProps.Component"></component>
     </transition>
+
+    hi
   </router-view>
 </template>
 
